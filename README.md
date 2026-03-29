@@ -13,5 +13,3 @@ flowchart LR
     D --> H[Revenue Metrics]
     D --> I[Order Volume]
     D --> J[Customer Insights]
-
-These metrics simulate real-world business intelligence dashboards used in retail operations.
